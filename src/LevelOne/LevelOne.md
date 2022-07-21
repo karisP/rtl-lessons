@@ -48,3 +48,9 @@ Open [https://github.com/testing-library/jest-dom](https://github.com/testing-li
 Use this resource to get creative with your assertions.
 
 # Acceptance Criteria
+
+- The page should have a heading of "LevelOne"
+- The page should have two different text elements
+- The page should have an input with the label of "Your Princess Name"
+- The page should have clickable button that says "Click Me!"
+- The page should have a disabled button that says "Can't Touch This"

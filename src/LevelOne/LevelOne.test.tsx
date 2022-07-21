@@ -6,7 +6,7 @@ describe("LevelOne", () => {
   beforeEach(() => {
     render(<LevelOne />);
   });
-  it("has...", () => {
+  it("should have...", () => {
     //query for the element
     //write an assertion
   });
