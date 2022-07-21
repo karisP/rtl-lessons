@@ -20,7 +20,7 @@ type `f` in front of the test.
 
 Example: `fit("should have a heading", () => {});`
 
-If you want to skip in on a specific test within a file:
+If you want to skip on a specific test within a file:
 type `x` in front of the test.
 
 Example: `xit("should have a heading", () => {});`
@@ -43,7 +43,7 @@ See [https://testing-library.com/docs/dom-testing-library/api-debugging](https:/
 
 # Jest Assertions
 
-Open [https://github.com/testing-library/jest-dom](https://github.com/testing-library/jest-dom)in your browser.
+Open [https://github.com/testing-library/jest-dom](https://github.com/testing-library/jest-dom) in your browser.
 
 Use this resource to get creative with your assertions.
 
