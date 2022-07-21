@@ -3,13 +3,17 @@
 This project was created to teach developers interested in learning about [React Testing Library](https://testing-library.com/docs/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 This project is also configured with Typescript. See tsconfig.json.
+
 This project is also configured with ESlint. See .eslintrc.js.
 
 # Getting Started
 
 There are several folders in the src directory labeled LevelOne, LevelTwo..etc.
+
 Start with LevelOne and read the markdown file for the instructions.
+
 Complete the tests according to the acceptance criteria in each level before moving on to the next one.
 
 ## Available Scripts
