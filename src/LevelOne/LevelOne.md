@@ -35,7 +35,7 @@ See [https://testing-library.com/docs/queries/about](https://testing-library.com
 
 Anytime you are unsure what element the query is returning try:
 
-`console.log(prettyDom(myQueriedElement));`
+`console.log(prettyDOM(myQueriedElement));`
 
 The console will print out the html that it returned from the query.
 
