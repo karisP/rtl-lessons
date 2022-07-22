@@ -49,7 +49,7 @@ Use this resource to get creative with your assertions.
 
 # Acceptance Criteria
 
-- The page should have a heading of "LevelOne"
+- The page should have a heading of "Level One"
 - The page should have two different text elements
 - The page should have an input with the label of "Your Princess Name"
 - The page should have an input with a placeholder of "FaIRy TaleS"
