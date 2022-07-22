@@ -5,9 +5,9 @@ const LevelOne = () => {
       <p>Bewildered tiaras in Fairy God Mothers daily ran an Aladdin.</p>
       <p>A tiny Ginger Bread Man soon ran the beanstalk.</p>
       <label htmlFor="input1">Your Princess Name</label>
-      <input id="input1" value="" />
-      <input id="input2" placeholder="FaIRy TaleS" value="" />
-      <input id="input3" value="The Brothers Grimm" />
+      <input id="input1" />
+      <input id="input2" placeholder="FaIRy TaleS" />
+      <input id="input3" defaultValue="The Brothers Grimm" />
       <label htmlFor="knights">Choose a Knight:</label>
       <select name="knights" id="knights">
         <option value="white">White</option>
