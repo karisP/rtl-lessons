@@ -1,5 +1,6 @@
 import LevelOne from "./LevelOne/LevelOne";
 import "./App.css";
+import LevelTwo from "./LevelTwo/LevelTwo";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         </div>
       </div>
       <LevelOne />
+      <LevelTwo />
     </div>
   );
 }
