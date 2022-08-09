@@ -24,6 +24,8 @@ Start with LevelOne and read the markdown file for the instructions.
 
 Complete the tests according to the acceptance criteria in each level before moving on to the next one.
 
+There is a submissions folder available if you need suggestions from other people's answers. If you would like to add to the submissions folder, copy your test file into the submissions folder and add your initials to the file. For instance `LevelOne_KP.test.tsx` would be mine, then remove your own changes from the original `LevelOne.test.tsx` and a create PR.
+
 ## Available Scripts
 
 In the project directory, you can run:
