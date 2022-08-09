@@ -50,10 +50,11 @@ Use this resource to get creative with your assertions.
 # Acceptance Criteria
 
 - The page should have a heading of "Level One"
-- The page should have two different text elements
+- The page should have a text element that says "Bewildered tiaras in Fairy God Mothers daily ran an Aladdin."
+- The page should have a text element that says "A tiny Ginger Bread Man soon ran the beanstalk."
 - The page should have an input with the label of "Your Princess Name"
 - The page should have an input with a placeholder of "FaIRy TaleS"
 - The page should have an input with a value of "The Brothers Grimm"
-- The page should have a select with a label of "Choose a Knight" with an two options
+- The page should have a select with a label of "Choose a Knight" with two options
 - The page should have clickable button that says "Click Me!"
 - The page should have a disabled button that says "Can't Touch This"
