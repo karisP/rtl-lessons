@@ -39,8 +39,6 @@ it("should display text after click", async() => {
 
 RTL Docs: https://testing-library.com/docs/dom-testing-library/api-async
 
-![Let's Do This](https://media0.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif)
-
 # Acceptance Criteria
 
 - there should be a heading of "Castle Address"
@@ -57,3 +55,5 @@ RTL Docs: https://testing-library.com/docs/dom-testing-library/api-async
 - the password field should display "required field" if it is empty
 - the button should be disabled when any field is invalid
 - the button should be enabled when all fields are valid
+
+![Let's Do This](https://media0.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif)
