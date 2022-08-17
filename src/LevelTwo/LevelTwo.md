@@ -41,6 +41,7 @@ RTL Docs: https://testing-library.com/docs/dom-testing-library/api-async
 
 # Acceptance Criteria
 
+- there should be a heading of "Level Two"
 - there should be a heading of "Castle Address"
 - there should an input with a label of "Ye Ole Trail"
 - there should be a checkbox field with a label of "Landmarks"
