@@ -42,3 +42,18 @@ RTL Docs: https://testing-library.com/docs/dom-testing-library/api-async
 ![Let's Do This](https://media0.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif)
 
 # Acceptance Criteria
+
+- there should be a heading of "Castle Address"
+- there should an input with a label of "Ye Ole Trail"
+- there should be a checkbox field with a label of "Landmarks"
+- there should be a select field with a label of "Castle Color"
+- there should be an input with a label of "Secret Password"
+- there should be a "Submit" button
+- the "Ye Ole Trail" input should display "required field" if left empty
+- the checkbox field should display "required field" if left unchecked
+- the select field should display the text of the option selected
+- the password field should display "the secret password must be a minimum of 8 characters" when it is less than 8 characters
+- the password field should display "the secret password must have an uppercase letter" when it does not have an uppercase letter
+- the password field should display "required field" if it is empty
+- the button should be disabled when any field is invalid
+- the button should be enabled when all fields are valid
