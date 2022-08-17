@@ -16,6 +16,7 @@
 - assumes the whole user experience from the onFocus to onKeyDown to onChange
 
 For more examples and details read: https://blog.mimacom.com/react-testing-library-fireevent-vs-userevent/
+
 RTL Docs: https://testing-library.com/docs/dom-testing-library/api-events
 
 # Async Methods
